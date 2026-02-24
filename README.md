@@ -1,37 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Ratthakit
 
+### 💻 Aspiring Software Engineer | Backend Developer
+
+Computer Science student with experience in developing web applications and backend systems. Skilled in designing RESTful APIs and database schema design. Interested in developing scalable and reliable systems as a Software Engineer or Backend Developer.
+
+---
+
+## 🚀 About Me
+
+- 🔧 Interested in Backend Development and System Design
+- 🔌 Experienced in RESTful API development
+- 💡 Continuously improving problem-solving and software engineering skills
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+C, C#, Java, Python, JavaScript, SQL
+
+### ⚙ Backend
+.NET, Blazor, Node.js, Express, FastAPI
+
+### 🎨 Frontend
+Blazor, Vue.js, Ant Design, HTML, CSS
+
+### 🗄 Database
+SQL Server, MySQL, PostgreSQL
+
+### 🔧 Tools
+Git, Visual Studio, VS Code
+
+---
+
+## 💼 Internship Experience
+
+### Full-Stack Developer Intern at Investor Club Association | 2025 (6 months)
+### 🔐 User Permission Management System
+- Developed a web application for user role and permission management.
+- Designed relational database schema and optimized queries
+
+## 📌 Featured Projects
+
+### 🏨 Hotel Reservation System (Group Project)
+- Designed and implemented database using PostgreSQL
+- Developed RESTful APIs with Node.js and Express.js
+
+### 🏢 Dormitory Reservation Program (Group Project)
+- Designed and implemented database using MySQL
+- Developed a program using Java
+
+---
+
+## 🎯 Career Goals
+
+Seeking opportunities as a Software Engineer or Backend Developer to contribute to scalable and reliable system development while continuously improving my engineering skills.
+
+---
+
+## 📫 Contact
+
+📧 Email: ratthakit.kcr@gmail.com  
+
+<br/>
 <div align="center">
-  <img hight="400" width="700" alt="GIF" align="center" src="/img/cinnamoroll-with-pillow.gif">
+  <img hight="400" width="500" alt="GIF" align="center" src="/img/cinnamoroll-with-pillow.gif">
 </div>
-</br>
-</br>
-</br>
 
-# About Me 👩🏻‍💻 :
-
-### I am 21 years old. I am studying for a Bachelor's degree in Computer Science.
-
-<img hight="250" width="350" alt="GIF" align="right" src="/img/jumping-zerotow.gif">
-
-### - Learning :
-- 📚 Database
-- 📚 C, C++, Python, Java Programming
-- 📚 Data Structures & Algorithms
-
-### - Hobbies :
-- 🌟 Play Game
-- 🌟 Sleep
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-# Languages & Tools 🧰 :
-
-</br>
-
+<!--
 <div align="center">
   <h3>Language</h3>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -88,28 +124,4 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="56" height="56" alt="VS Code" />
   </a>
 </div>
-
-</br>
-</br>
-</br>
-
-# Contact Me ℹ️ :
-
-## Please feel free to contact me if you have any questions.
-### - Email : ratthakit.k@gmail.com
-
-
-<!--
-**6530200401/6530200401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
